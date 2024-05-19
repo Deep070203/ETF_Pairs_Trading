@@ -15,3 +15,7 @@ Develop a pair trading strategy based on the statistical properties of the sprea
 Modeling the Spread Using the Ornstein-Uhlenbeck (OU) Process
 
 Predicting the Spread using Support Vector Machine (SVM) Model
+
+
+
+Insipred from a Kaggle Notebook by CHRISTOPHER CHIARILLI
